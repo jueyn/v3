@@ -18,11 +18,11 @@ jobs:
           cd dnscrypt-resolvers
           curl https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json | jq -r '.[] | select(.dnssec == true) | select(.ipv6 == false) | select(.nofilter == false) | select(.nolog == true) | select(.proto == "DNSCrypt") | .name,.stamp' | sed -e '/family/,+1d' -e '/sfw/,+1d' -e '/nogoogle/,+1d'  -e '/adguard/,+1d' -e '/cleanbrowsing/,+1d' -e '/quad9/,+1d' -e 's/^/## /g' -e 's/## sdns/sdns/g' > v3/public-resolvers.md
           .github/workflows/resolverscheck.sh | tee resolverscheck
-          sort -u resolverscheck | tee ../resolverscheck
+          sort -u resolverscheck | tee ../public-resolvers
           chmod +x .github/workflows/relaycheck.sh
           .github/workflows/relaycheck.sh | tee relaycheck
           sed -e '/linux/d' -e '/ERROR/d' relaycheck > relaycheck.txt
-          sort -u relaycheck.txt | tee ../relaycheck
+          sort -u relaycheck.txt | tee ../relays
           rm -rf ../dnscrypt-resolvers
       - name: Commit
         run: |
