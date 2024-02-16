@@ -117,7 +117,6 @@ pass: dnscry.pt-anon-munich-ipv4
 pass: dnscry.pt-anon-naaldwijk-ipv4
 pass: dnscry.pt-anon-newyork-ipv4
 pass: dnscry.pt-anon-nuremberg-ipv4
-pass: dnscry.pt-anon-ottoville-ipv4
 pass: dnscry.pt-anon-paris-ipv4
 pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
@@ -126,7 +125,7 @@ pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
 pass: dnscry.pt-anon-sandefjord-ipv4
-pass: dnscry.pt-anon-santaclara-ipv4
+pass: dnscry.pt-anon-santaclara-ipv4 (2 retries)
 pass: dnscry.pt-anon-seattle-ipv4
 pass: dnscry.pt-anon-singapore-ipv4
 pass: dnscry.pt-anon-singapore02-ipv4
