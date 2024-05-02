@@ -1,4 +1,4 @@
-pass: bebasdns
+pass: bebasdns (1 retry)
 pass: dns.b33.network-dnscrypt
 pass: dnscrypt.pl-guardian
 pass: doh.tiar.app
