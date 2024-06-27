@@ -19,7 +19,7 @@ pass: anon-cs-fl
 pass: anon-cs-fl2
 pass: anon-cs-fr
 pass: anon-cs-ga
-pass: anon-cs-hungary
+pass: anon-cs-hungary (1 retry)
 pass: anon-cs-il
 pass: anon-cs-il2
 pass: anon-cs-india
@@ -93,7 +93,7 @@ pass: dnscry.pt-anon-frankfurt-ipv4
 pass: dnscry.pt-anon-fremont-ipv4
 pass: dnscry.pt-anon-fujairah-ipv4
 pass: dnscry.pt-anon-geneva-ipv4
-pass: dnscry.pt-anon-helsinki-ipv4
+pass: dnscry.pt-anon-helsinki-ipv4 (1 retry)
 pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
@@ -117,6 +117,7 @@ pass: dnscry.pt-anon-oradea-ipv4
 pass: dnscry.pt-anon-paris-ipv4
 pass: dnscry.pt-anon-philadelphia-ipv4
 pass: dnscry.pt-anon-phoenix-ipv4
+pass: dnscry.pt-anon-portedwards-ipv4
 pass: dnscry.pt-anon-portland-ipv4
 pass: dnscry.pt-anon-riga-ipv4
 pass: dnscry.pt-anon-saltlakecity-ipv4
