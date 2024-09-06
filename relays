@@ -31,7 +31,7 @@ pass: anon-cs-madrid
 pass: anon-cs-manchester
 pass: anon-cs-mexico
 pass: anon-cs-milan
-pass: anon-cs-montreal (1 retry)
+pass: anon-cs-montreal
 pass: anon-cs-nc
 pass: anon-cs-nl
 pass: anon-cs-nl2
@@ -51,7 +51,7 @@ pass: anon-cs-sk
 pass: anon-cs-slovakia
 pass: anon-cs-swe
 pass: anon-cs-sydney
-pass: anon-cs-tokyo (1 retry)
+pass: anon-cs-tokyo
 pass: anon-cs-tx
 pass: anon-cs-tx2
 pass: anon-cs-tx3
@@ -59,7 +59,7 @@ pass: anon-cs-vancouver
 pass: anon-digitalprivacy.diy-ipv4
 pass: anon-dnscrypt.uk-ipv4
 pass: anon-dnswarden-swiss
-pass: anon-fluffycat-fr-01
+pass: anon-fluffycat-fr-01 (2 retries)
 pass: anon-inconnu
 pass: anon-kama
 pass: anon-openinternet
