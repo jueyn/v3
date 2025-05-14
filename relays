@@ -20,7 +20,7 @@ pass: anon-cs-la
 pass: anon-cs-london
 pass: anon-cs-madrid
 pass: anon-cs-manchester
-pass: anon-cs-mexico
+pass: anon-cs-mexico (1 retry)
 pass: anon-cs-milan
 pass: anon-cs-montreal
 pass: anon-cs-nc
@@ -95,7 +95,7 @@ pass: dnscry.pt-anon-johannesburg-ipv4
 pass: dnscry.pt-anon-johor-ipv4
 pass: dnscry.pt-anon-kansascity-ipv4
 pass: dnscry.pt-anon-kyiv-ipv4
-pass: dnscry.pt-anon-lagos-ipv4
+pass: dnscry.pt-anon-lagos-ipv4 (1 retry)
 pass: dnscry.pt-anon-lasvegas-ipv4
 pass: dnscry.pt-anon-libertylake-ipv4
 pass: dnscry.pt-anon-lima02-ipv4
