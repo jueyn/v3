@@ -80,7 +80,7 @@ pass: dnscry.pt-anon-grandrapids-ipv4
 pass: dnscry.pt-anon-hafnarfjordur-ipv4
 pass: dnscry.pt-anon-halifax-ipv4
 pass: dnscry.pt-anon-hanoi-ipv4
-pass: dnscry.pt-anon-helsinki-ipv4
+pass: dnscry.pt-anon-helsinki-ipv4 (2 retries)
 pass: dnscry.pt-anon-hochiminhcity-ipv4
 pass: dnscry.pt-anon-hongkong-ipv4
 pass: dnscry.pt-anon-hongkong02-ipv4
