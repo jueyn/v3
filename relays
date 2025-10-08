@@ -2,6 +2,7 @@ pass: anon-cs-austria
 pass: anon-cs-barcelona
 pass: anon-cs-belgium
 pass: anon-cs-berlin
+pass: anon-cs-brazil
 pass: anon-cs-ch
 pass: anon-cs-czech
 pass: anon-cs-dc
@@ -14,7 +15,7 @@ pass: anon-cs-ga
 pass: anon-cs-hungary
 pass: anon-cs-il
 pass: anon-cs-india
-pass: anon-cs-la
+pass: anon-cs-la (1 retry)
 pass: anon-cs-london
 pass: anon-cs-manchester
 pass: anon-cs-md
